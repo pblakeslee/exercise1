@@ -98,8 +98,19 @@ input:focus {
     padding: 12px 100px;
 }
 
-.section3 p{
+#account{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    font-size: 12px;
+    font-size: 11px;
+    background-color: transparent;
+    color: #8F8A8E;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+
+#account:hover{
+    color: black;
+    border: none;
+    font-weight: 400;
+
 }
